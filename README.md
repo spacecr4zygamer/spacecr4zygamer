@@ -1,4 +1,4 @@
-Most works I create are not on this website, those that are likely useless for anyone and just fun projects from myself.
+Most works I create are not on this website, those that are, are likely useless for anyone and just fun projects from myself.
 
 Currently not active on here
 
