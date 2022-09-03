@@ -9,3 +9,5 @@ My knowledge:
 - Learning slowly C++
 - Interest in learning Python, JS
 - Will probably learn C soon
+
+You can reach me on Discord (sp4cebase#5794) best
