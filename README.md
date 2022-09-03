@@ -3,7 +3,7 @@ Most works I create are not on this website, those that are, are likely useless 
 Currently not active on this platform.<br/>
 I work a lot on the Roblox platform.
 
-You can find my Projects list <b><a href="https://github.com/users/spacecr4zygamer/projects/1">here</a></b>.
+You can find my Projects list <b><a href="https://github.com/users/spacecr4zygamer/projects/1">here</a></b> (nowhere for now I didnt like how it was lol).
 
 My knowledge:
 - Lua, Luau
