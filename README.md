@@ -3,14 +3,9 @@ Most works I create are not on this website, those that are, are likely useless 
 Currently not active on this platform.<br/>
 I work a lot on the Roblox platform.
 
-You can find my Projects list <b><a href="https://github.com/users/spacecr4zygamer/projects/1">here</a></b> (nowhere for now I didnt like how it was lol).
-
 My knowledge:
 - Lua, Luau
 - Java
-- Some HTML/CSS/JS/PHP/SQL
-- Learning slowly C++
-- Interest in learning Python, JS
-- Will probably learn C soon
+- Some HTML/CSS/JS, SQL, C++/C
 
-You can reach me on Discord (sp4cebase#5794) best.
+You can reach me on Discord (spacecr4zygamer) best.
